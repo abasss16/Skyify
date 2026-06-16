@@ -1,0 +1,6 @@
+{
+  "name": "Skyify",
+  "description": "Pemutar musik atmosferik premium dengan lagu-lagu Indonesia pilihan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
