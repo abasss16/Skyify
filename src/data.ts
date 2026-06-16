@@ -136,4 +136,4 @@ export const DEFAULT_PLAYLISTS: Playlist[] = [
   }
 ];
 
-export const DEFAULT_BG_IMAGE = "/src/assets/images/cosmic_tree_bg_1781599588800a.jpg";
+export const DEFAULT_BG_IMAGE = "/audio/bg.jpg";

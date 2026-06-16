@@ -891,7 +891,7 @@ useEffect(() => {
                   </div>
                   <div className="flex-1 text-center md:text-left space-y-2">
                     <span className="text-[10px] font-mono uppercase tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-[#4cd7f6] font-bold">
-                      Rekomendasi Utama
+                      Rekomendasi Utama by: Adam Bayu Saputra
                     </span>
                     <h2 className="font-display text-2xl md:text-3xl font-black text-white leading-tight">
                       Seni Aliran Musik Indonesia
